@@ -2,4 +2,4 @@
 # This is an H1 header (largest)
 ## Summary 
 
-This repository contains all of the notes taken by [Hayder] for the Lighthouse Labs Web Development Bootcamp
+This repository contains all of the notes taken by [Hayder](https://github.com/Hayder-Suwaed/lighthouse-web-notes) for the Lighthouse Labs Web Development Bootcamp
