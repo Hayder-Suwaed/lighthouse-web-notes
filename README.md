@@ -3,3 +3,5 @@
 ## Summary 
 
 This repository contains all of the notes taken by [Hayder](https://github.com/Hayder-Suwaed/lighthouse-web-notes) for the Lighthouse Labs Web Development Bootcamp
+* Week 1
+  * Day 1
